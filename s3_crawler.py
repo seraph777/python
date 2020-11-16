@@ -8,8 +8,7 @@
 
 
 #Obs.: Eh obvio, mas nao custa dizer, tem que configurar as credentials do aws configure antes de tudo ...
-####   Nao fiz a parte da bilhetagem, mas creio que o objetivo aqui eh mostrar que o canditado sabe se virar com python, correto ?
-####   Bom, eh isso ai ... espero conhece-los e fazer parte da equipe  :)
+
 
 #### Modulos utilizados
 import boto3
